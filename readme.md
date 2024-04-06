@@ -2,4 +2,4 @@
 
 # basics
 
-![alt text](https://github.com/gmaheshraju/simple_coding/blob/master/Javascript_Runtime.png?raw=true)
+![alt text](https://github.com/gmaheshraju/simple_coding/blob/master/event_loop/Javascript_Runtime.png?raw=true)
